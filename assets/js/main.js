@@ -7,7 +7,7 @@
 */
 window.addEventListener("load", function () {
   // Munculkan alert
-  alert("Klik OK untuk memainkan lagu.");
+  alert("Hayy... yeayy website ini dah jadi, btw ini aku buatnya 2 hari 2 malem, hehe, dan sekarang aku baru mau tidur. semoga kamu suka sama ini yaah, aku cuman mo ngmng aja si, kalo yang km kira aku ga suka beneran itu salah, yang bener aku suka beneran sama kamu, dan sempet aku ceritain kan sama kamu waktu itu. aku ga mau pergi dari kamu lagi buat yang kedua kalinya, aku mau stay di kamu terus, dan semua aku tanggung kok untuk itu, dan semoga kamu suka buatan aku ini, aku tulus buat web ini khusus kamu, maaf yah yang aku buat ga sebagus yang lain, dan perasaan, apapun yang aku aku sesuai lagu ini, km klik ok aja, nanti lagunya aktif kok");
 
   // Buat elemen audio
   var audio = new Audio("lagu.mp3");
@@ -20,6 +20,8 @@ window.addEventListener("load", function () {
   // Mainkan lagu
   audio.play();
 });
+
+
 (function() {
   "use strict";
 
